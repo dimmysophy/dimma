@@ -1,1 +1,1 @@
-this just a text file that i wish to use to demonstate deleting and restoring a fileon git
+this just a text file that i wish to use to demonstate deleting and restoring a fileon git and i want to simulate changesmade  here on my master branch
